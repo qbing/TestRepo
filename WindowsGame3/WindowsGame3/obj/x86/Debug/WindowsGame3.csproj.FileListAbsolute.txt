@@ -1,0 +1,11 @@
+D:\Chengsq\VcProject\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Chengsq\VcProject\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Chengsq\VcProject\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Images\Bird.xnb
+D:\Chengsq\VcProject\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Images\logo.xnb
+D:\Chengsq\VcProject\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.exe
+D:\Chengsq\VcProject\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\WindowsGame3.pdb
+D:\Chengsq\VcProject\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.exe
+D:\Chengsq\VcProject\WindowsGame3\WindowsGame3\WindowsGame3\obj\x86\Debug\WindowsGame3.pdb
+D:\Chengsq\VcProject\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Images\actor.xnb
+D:\Chengsq\VcProject\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Images\background.xnb
+D:\Chengsq\VcProject\WindowsGame3\WindowsGame3\WindowsGame3\bin\x86\Debug\Content\Images\map.xnb

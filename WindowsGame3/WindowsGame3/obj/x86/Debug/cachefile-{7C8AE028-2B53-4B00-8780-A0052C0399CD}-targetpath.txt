@@ -1,0 +1,5 @@
+Content\Images\Bird.xnb
+Content\Images\logo.xnb
+Content\Images\actor.xnb
+Content\Images\background.xnb
+Content\Images\map.xnb
